@@ -146,15 +146,17 @@ body {
   }
   
   /* Tambahkan CSS untuk message-wrapper */
-  
+  .message-wrapper{
+    text-align: center;
+    margin-bottom: 150px;
+}
   
   
   .message {
     padding: 15px 40px;
     background-color: #5dca88;
     /* Ubah property cursor ke pointer */
-     text-align: center;
-    margin-bottom: 40px;
+     cursor: pointer;
     /* Ubah property box-shadow */
     
   }
