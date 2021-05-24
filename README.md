@@ -1,1 +1,1 @@
-# humanhyp.no.github.io
+# aditriyas.github.io
